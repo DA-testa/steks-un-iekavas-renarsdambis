@@ -1,3 +1,4 @@
+# Renārs Dambis 13. grupa 221RDB063
 # python3
 
 from collections import namedtuple
